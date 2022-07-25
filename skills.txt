@@ -1,0 +1,69 @@
+    <!-- ======= Skills Section ======= -->
+    <section id="skills" class="skills section-bg">
+      <div class="container" data-aos="fade-up">
+        <div class="section-title">
+          <span>Skills</span>
+          <h2>Skills</h2>
+          <p>Future belongs to those who learn more skills and combine them in creative ways.</p>
+        </div>
+
+        <div class="row skills-content">
+
+      
+            <div class="site-section pb-0 services">
+                    
+                <div class="row">
+      
+                  <div class="col-12 col-sm-6 col-md-6 col-lg-6 mb-5" data-aos="fade-up" data-aos-delay="">
+                    <i class="fa-solid fa-brain"></i>
+                    <h4 class="h4 mb-2">Machine Learning / Computer Vision</h4>
+<!--                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit explicabo inventore.</p>
+  -->                    <ul class="list-unstyled list-line">
+                      <li>TensorFlow & Keras</li>
+                      <li>PyTorch</li>
+                      <li>Scikit-Learn</li>
+                      <li>OpenCv</li>
+                      <li>Matlab</li>
+                    </ul>
+                  </div>
+                  <div class="col-12 col-sm-6 col-md-6 col-lg-6 mb-5" data-aos="fade-up" data-aos-delay="100">
+                    <i class="fa-solid fa-laptop-code"></i>
+                    <h4 class="h4 mb-2">Web Development</h4>
+<!--                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit explicabo inventore.</p>
+  -->                    <ul class="list-unstyled list-line">
+                      <li>HTML & CSS</li>
+                      <li>Javascript</li>
+                      <li>Jekyll</li>
+                      <li>Ruby on Rails</li>
+                      <li>Netlify</li>
+                    </ul>
+                  </div>
+                  <div class="col-12 col-sm-6 col-md-6 col-lg-6 mb-5" data-aos="fade-up" data-aos-delay="">
+                    <i class="fa-solid fa-code"></i>
+                    <h4 class="h4 mb-2">Programming Languages</h4>
+<!--                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit explicabo inventore.</p>
+  -->                    <ul class="list-unstyled list-line">
+                      <li>Python</li>
+                      <li>C & C++</li>
+                      <li>Java</li>
+                      <li>C#</li>
+                      <li>R</li>
+                    </ul>
+                  </div>
+                  <div class="col-12 col-sm-6 col-md-6 col-lg-6 mb-5" data-aos="fade-up" data-aos-delay="100">
+                    <i class='bx bxs-collection'></i>
+                    <h4 class="h4 mb-2">Miscellaneous</h4>
+<!--                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit explicabo inventore.</p>
+  -->                    <ul class="list-unstyled list-line">
+                      <li>Unity3D</li>
+                      <li>IBM Cloud</li>
+                      <li>Android Studio</li> 
+                      <li>React Native</li>
+                      <li>PWA</li>
+                    </ul>
+                  </div>
+                </div>
+            </div>
+        </div>
+      </div>
+    </section><!-- End Skills Section -->
